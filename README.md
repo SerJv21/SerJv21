@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SerJv21
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in programming and stock trading
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on ...
